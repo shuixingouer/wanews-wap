@@ -1,0 +1,16 @@
+{
+  "name": "my-project-name",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.14.0",
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-cssmin": "^0.14.0",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-less": "^1.1.0",
+    "grunt-contrib-uglify": "^0.10.1",
+    "load-grunt-config": "^0.19.0"
+  }
+}
